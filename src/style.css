@@ -1,28 +1,30 @@
 body {
-    background-color: black;
-    color: white;
-    font-family: 'Oswald', sans-serif;
+  background-color: black;
+  color: white;
+  font-family: "Oswald", sans-serif;
 }
 .title {
-    text-align: center;
-    color: white;
+  text-align: center;
+  color: white;
 }
-img{
-    width: 250px;
-    height: 150px;
+img {
+  width: 250px;
+  height: 150px;
 }
-.gameSearch{
-    text-align: left;
-    padding: 15px;
+.gameSearch {
+  text-align: left;
+  padding: 15px;
 }
-
-.Home{
-    text-align: left;
-    padding-left: 15px;
+.Teams {
+  text-align: left;
+  padding: 15px;
 }
-
-.Away{
-    text-align: left;
-    padding-left: 15px;
+.Home {
+  text-align: left;
+  padding-left: 15px;
 }
 
+.Away {
+  text-align: left;
+  padding-left: 15px;
+}
